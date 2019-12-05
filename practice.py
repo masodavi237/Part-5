@@ -1,0 +1,5 @@
+def hjuasiod:
+    kashdgajkshd
+
+
+hjuasiod()
